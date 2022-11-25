@@ -1,0 +1,24 @@
+{
+  "name": "tailwindReference",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i ./input.css -o ./css/main.css", 
+    "watch": "tailwindcss -i ./input.css -o ./css/main.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DWAcademProgramming/tailwindReference.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DWAcademProgramming/tailwindReference/issues"
+  },
+  "homepage": "https://github.com/DWAcademProgramming/tailwindReference#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
