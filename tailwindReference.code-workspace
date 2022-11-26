@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "tailwindReference",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "tailwindReference"
+	}
+}
